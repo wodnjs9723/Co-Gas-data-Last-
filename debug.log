@@ -1,0 +1,4 @@
+[0621/120227.511:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0621/120227.594:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: 액세스가 거부되었습니다. (0x5)
+[0621/120227.601:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
+[0621/120228.149:ERROR:crashpad_win.cc(223)] Crashpad handler failed to start, crash reporting disabled
